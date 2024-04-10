@@ -26,7 +26,6 @@ $topics = $stmt->fetchAll();
 <?php
 include 'navbar.php';
 ?>
-<div class="bgImg">
     <div class="presentation">
         <h1>Bienvenue sur AllRoadCar</h1>
     </div>
