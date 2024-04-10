@@ -10,9 +10,6 @@ Répartition du travail:
 -CONNEXION, INSCRIPTION : Kilian
 
 On a globalement travaillé sur les mêmes pages mais avec des responsabilités différentes
-
-
-
 !!ATTENTION!! 
 
 Pour lancer le site il faut lancer index.php
